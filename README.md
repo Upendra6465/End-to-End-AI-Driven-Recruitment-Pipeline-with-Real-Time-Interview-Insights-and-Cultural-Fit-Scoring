@@ -1,8 +1,5 @@
 # End-to-End-AI-Driven-Recruitment-Pipeline-with-Real-Time-Interview-Insights-and-Cultural-Fit-Scoring
 
-# End to end ai driven pipeline resume parsing model
-# Automated Resume Screening and Interview Assistance
-
 ## Overview
 This project leverages machine learning and natural language processing to streamline the hiring process. It includes modules for generating interview questions, exploratory data analysis (EDA), prediction of candidate selection, and resume screening. The system processes candidate resumes, transcripts, and job descriptions to derive features, perform similarity analysis, and build a predictive model to classify candidates as "select" or "reject."
 
